@@ -1,2 +1,1 @@
-# downlorganizer
-organizing files when files downloaded to `~/Download` dir.
+# Just clone and then you can start development with TypeScript immediately.
